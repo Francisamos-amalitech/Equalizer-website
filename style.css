@@ -29,6 +29,7 @@
     background-size:cover;
     background-position:center;
     overflow:hidden;
+    overflow:hidden;
 }
 
 
@@ -75,6 +76,7 @@
 
 
 /* ----- MAIN SECTION STYLING --------------- */
+
 
 
 .features{
@@ -272,13 +274,12 @@ footer{
     }
 
     .welcome-section h1{
-        font-size:50px;
+        font-size:40px;
         line-height:60px;
     }
 
     .welcome-section p{
-
-        font-size:18px;
+        font-size:13px;
         
     }
 
@@ -288,7 +289,8 @@ footer{
     }
 
     .features-items img{
-       left:15%;
+       left:12%;
+       width:80%;
        
     }
 
@@ -297,5 +299,15 @@ footer{
         float:left;
     }
 
+    .pattern{
+        width:500px;
+        left:4%;
+    }
 
+    .price{
+        width:100%;
+        margin:0;
+        top:65%;
+        left:0;
+    }
 }
