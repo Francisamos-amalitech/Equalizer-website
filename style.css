@@ -246,6 +246,7 @@ footer{
 
 .social-media a img{
     margin:5px;
+    float:right;
 }
 
 
@@ -283,10 +284,17 @@ footer{
 
     .features{
         width:100%;
+        margin-top:90px;
     }
 
     .features-items img{
        left:15%;
+       
+    }
+
+
+    .social-media a img{
+        float:left;
     }
 
 
