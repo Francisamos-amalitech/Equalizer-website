@@ -228,7 +228,7 @@
 /* ----- FOOTER SECTION STYLING */
 footer{
     padding:100px 0;
-    margin-top:100px;
+    margin-top:200px;
 }
 
 
@@ -259,7 +259,7 @@ footer{
 
 /* -----RESPONSIVENESS ------------ */
 
-@media(max-width:900px){
+@media screen and (max-width:600px){
 
     header{
        padding:0px 0px 50px 0;
@@ -274,7 +274,7 @@ footer{
     }
 
     .welcome-section h1{
-        font-size:40px;
+        font-size:36px;
         line-height:60px;
     }
 
