@@ -19,7 +19,7 @@
 }
 
 
-/* ----- HERO SECTION -------- */
+/* ----- HEADER SECTION -------- */
 
 
 .hero{
@@ -66,3 +66,51 @@
     font-size:20px;
     line-height:34px;
 }
+
+
+/* ------ END OF HEADER SECTION -------- */
+
+
+
+
+
+/* ----- MAIN SECTION STYLING --------------- */
+
+
+.features{
+    width:80%;
+    height:600px;
+    margin:auto;
+    padding:100px 0;
+    background:var(--black-color);
+    padding:2% 8%;
+    border-radius:15px;
+    position:relative;
+}
+
+
+.features-items img{
+   width:300px;
+    position:absolute;
+    top:-30%;
+    z-index:1;
+}
+
+
+
+.pattern{
+    position:relative;
+    width:34%;
+    left:29%;
+    height:100vh;
+    background-image:url('images/bg-pattern-2.svg');
+    background-repeat:no-repeat;
+}
+
+
+
+
+
+
+
+/* ----- END OG MAIN SECTION STYLING --------------- */
