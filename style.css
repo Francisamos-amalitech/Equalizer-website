@@ -310,4 +310,8 @@ footer{
         top:50%;
         left:0;
     }
+
+    .footer-container{
+        margin-top:65%;
+    }
 }
