@@ -1,6 +1,19 @@
+/* ----CSS RESET--- */
+
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
     font-family:'IMB Plex Sans',sans-serif;
+}
+
+
+/*------ VARIABLES -----*/
+
+:root{
+    --primary-color:#66e2dc;
+    --secondary-color:#fa7453;
+    --orange-color:#ffb964;
+    --white-color:#fcfaf9;
+    --black-color:#191b26;
 }
