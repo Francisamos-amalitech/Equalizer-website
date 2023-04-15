@@ -286,6 +286,7 @@ footer{
     .features{
         width:100%;
         margin-top:90px;
+        padding:0;
     }
 
     .features-items img{
@@ -307,9 +308,15 @@ footer{
     .price{
         width:100%;
         height:auto;;
-        top:50%;
+        top:67%;
         left:0;
     }
+
+
+    .price-items h2{
+        font-size:35px;
+    }
+
 
     .footer-container{
         margin-top:65%;
