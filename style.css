@@ -21,6 +21,11 @@
 
 /* ----- HEADER SECTION -------- */
 
+.wrapper{
+    width:1200px;
+}
+
+
 
 .hero{
     width:100%;
@@ -260,6 +265,12 @@ footer{
 /* -----RESPONSIVENESS ------------ */
 
 @media screen and (max-width:600px){
+
+    .wrapper{
+        width:100%;
+        margin:auto;
+
+    }
 
     header{
        padding:0px 0px 50px 0;
